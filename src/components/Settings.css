@@ -1,0 +1,40 @@
+#settings {
+	display: flex;
+}
+
+.settings-container {
+	background-color: #5ec252;
+	color: white;
+	
+	font-family: sans-serif;
+	display: flex;
+	flex-direction: column;
+	height: min-content;
+	
+	border-radius: 5px;
+	box-shadow: #9a9a9a 0 0 10px 1px;
+	padding: 20px;
+	margin-right: 20px;
+	min-width: 200px;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+.min-value {
+	width: 1.5em;
+	display: inline-block;
+	text-align: end;
+}
+
+.play {
+	margin-top: 20px;
+	border-radius: 5px;
+	border: none;
+	background-color: #2a48cf;
+	padding: 5px;
+	color: white;
+	font-weight: bold;
+	font-size: 2em;
+}

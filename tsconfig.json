@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": false,
+    "noUncheckedSideEffectImports": false
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
